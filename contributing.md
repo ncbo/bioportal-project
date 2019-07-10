@@ -30,7 +30,7 @@ This project and everyone participating in it is governed by the [Terms of Servi
 
 We have an official message board where the community chimes in with helpful advice if you have questions.
 
-* [BioPortal/OntoPortal/Virtual Appliance message board](https://mailman.stanford.edu/mailman/listinfo/bioontology-support) Or you can just send email to [the moderated list](support@bioontology.org).
+* [BioPortal message board](https://mailman.stanford.edu/mailman/listinfo/bioontology-support) (includes OntoPortal and Virtual Appliance questions)   Or you can just send email to [the moderated list](support@bioontology.org).
 
 ## What should I know before I get started?
 
